@@ -15,3 +15,8 @@ h2.center {
 .lecture {
   text-align: center;
 }
+
+.highlight {
+  border-style: solid;
+  background-color: yellow;
+}
